@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on improving my existing projects (ChessGUI, WhateverYouWant) and learning new technologies
 
 ## Connect with me
-[<img src="images\icons8-github-48.png" />&nbsp;](https://github.com/ClumpyJonathan)
-[<img src="images\icons8-globe-48.png" />&nbsp;](https://clumpyjonathan.github.io/)
-[<img src="images\icons8-linkedin-48.png" />&nbsp;](https://www.linkedin.com/in/jonathan-chiang-4323091ab/)
+[<img src="https://raw.githubusercontent.com/ClumpyJonathan/ClumpyJonathan/master/images/icons8-github-48.png" />&nbsp;](https://github.com/ClumpyJonathan)
+[<img src="https://raw.githubusercontent.com/ClumpyJonathan/ClumpyJonathan/master/images/icons8-globe-48.png" />&nbsp;](https://clumpyjonathan.github.io/)
+[<img src="https://raw.githubusercontent.com/ClumpyJonathan/ClumpyJonathan/master/images/icons8-linkedin-48.png" />&nbsp;](https://www.linkedin.com/in/jonathan-chiang-4323091ab/)
 
 ## Project highlights
 - [My website](https://clumpyjonathan.github.io/) (website link)
