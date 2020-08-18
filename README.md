@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I'm currently learning Java and Python at school covering topics such as software design and object-oriented principles
-- 🌱 I'm currently learning C++, Unreal Engine, Machine Learning, and Data Structures on my own time
-- 🔭 I’m currently working on improving my existing projects (ChessGUI, WhateverYouWant) and learning new technologies
-
 ## Connect with me
-[<img src="https://raw.githubusercontent.com/ClumpyJonathan/ClumpyJonathan/master/images/icons8-github-48.png" />](https://github.com/ClumpyJonathan)&nbsp;
-[<img src="https://raw.githubusercontent.com/ClumpyJonathan/ClumpyJonathan/master/images/icons8-globe-48.png" />](https://clumpyjonathan.github.io/)&nbsp;
-[<img src="https://raw.githubusercontent.com/ClumpyJonathan/ClumpyJonathan/master/images/icons8-linkedin-48.png" />](https://www.linkedin.com/in/jonathan-chiang-4323091ab/)
+[<img src="https://raw.githubusercontent.com/szge/szge/master/images/icons8-github-48.png" />](https://github.com/ClumpyJonathan)&nbsp;
+[<img src="https://raw.githubusercontent.com/szge/szge/master/images/icons8-globe-48.png" />](https://clumpyjonathan.github.io/)&nbsp;
+[<img src="https://raw.githubusercontent.com/szge/szge/master/images/icons8-linkedin-48.png" />](https://www.linkedin.com/in/jonathan-chiang-4323091ab/)
 
 ## Project highlights
 - [My website](https://clumpyjonathan.github.io/) (website link)
