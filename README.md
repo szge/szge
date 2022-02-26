@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Webpages
+Portfolio website: [szge.github.io](https://szge.github.io/)
+Personal website: [szge.ca](https://szge.ca/)
+
 ## Connect with me
 [<img src="https://raw.githubusercontent.com/szge/szge/master/images/icons8-github-48.png" />](https://github.com/szge)&nbsp;
 [<img src="https://raw.githubusercontent.com/szge/szge/master/images/icons8-globe-48.png" />](https://szge.github.io/)&nbsp;
