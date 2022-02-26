@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Webpages
 Portfolio website: [szge.github.io](https://szge.github.io/)
+
 Personal website: [szge.ca](https://szge.ca/)
 
 ## Connect with me
